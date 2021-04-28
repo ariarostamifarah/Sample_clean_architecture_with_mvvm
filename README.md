@@ -21,9 +21,9 @@ asynchronous tasks for optimal execution.
 
 [0]: https://developer.android.com/topic/libraries/data-binding/
 [1]: https://developer.android.com/topic/libraries/architecture/livedata
-[3]: https://developer.android.com/topic/libraries/architecture/room
-[4]: https://developer.android.com/topic/libraries/architecture/viewmodel
-[5]: https://kotlinlang.org/docs/reference/coroutines-overview.html
+[2]: https://developer.android.com/topic/libraries/architecture/room
+[3]: https://developer.android.com/topic/libraries/architecture/viewmodel
+[4]: https://kotlinlang.org/docs/reference/coroutines-overview.html
 [5]: https://dagger.dev/
 [6]: https://developer.android.com/training/testing/junit-rules
 [7]: https://developer.android.com/training/testing/espresso
